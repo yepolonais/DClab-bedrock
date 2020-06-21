@@ -1,0 +1,89 @@
+/*
+ * Définition des variables
+ */
+
+:root{
+    /* --Thrasher: "Thrasher";
+    --Mountecarlo: "Mountecarlo";
+    --CL: "CL_classic";
+    --CL_bold: "CL_bold";
+    --CL_italic: "CL_italic";
+    --CL_bold_italic: "CL_bold_italic"; */
+    --VertDev: #6CC24A;
+    --JauneDesign: #ECE81A;
+    --BleuMarket: #00A3AD;
+    --BleuDC: #00263E;
+    --Noir: #000;
+    --Blanc: #FFF;
+}
+
+/*
+ *FONTS
+ */
+
+/* @font-face {
+ font-family: "CL_classic";
+ src: url("/assets/css/fonts/ChampagneLimousines.ttf") format("truetype");
+}
+
+@font-face {
+ font-family: "CL_bold";
+ src: url('/assets/css/fonts/ChampagneLimousinesBold.ttf') format("truetype");
+}
+
+@font-face {
+   font-family: "CLitalic";
+   src: url('/assets/css/fonts/ChampagneLimousinesItalic.ttf') format("truetype");
+}
+
+@font-face {
+  font-family: "CL_bold_italic";
+  src: url('/assets/css/fonts/ChampagneLimousinesBoldItalic.ttf') format("truetype");
+}
+
+@font-face {
+ font-family: "Mountecarlo";
+ src: url("/assets/css/fonts/Mountecarlo.ttf") format("truetype");
+}
+
+@font-face {
+ font-family: "Thrasher";
+ src: url("/assets/css/fonts/THRASHER.ttf") format("truetype");
+} */
+
+/*
+ * RESET CSS
+ */
+
+*,
+*:before,
+*:after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a, a:hover{
+    text-decoration: none;
+}
+dl, ol, ul, p {
+    margin-top: 0;
+    margin-bottom: 0 !important;
+}
+
+img{
+  vertical-align: baseline !important;
+}
+li, .list-menu > li, .list-footer > li{
+    list-style-type: none;
+}
+/*
+ * Reset css fin
+ */
+
+/*
+ * Layout général
+ */
+html{
+  font-size: calc(1vw + 1em);
+}

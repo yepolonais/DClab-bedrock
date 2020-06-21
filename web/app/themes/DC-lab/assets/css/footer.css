@@ -1,0 +1,36 @@
+#colophon, .footer-rs{
+  display: flex;
+  align-items: baseline;
+  margin-top: 1rem;
+}
+
+.footer-logo{
+  width: 10rem;
+  height: auto;
+}
+.unRem{
+  width: 1rem;
+}
+.deuxRem{
+  width: 2rem;
+}
+.troisRem{
+  width: 3rem;
+}
+.quatreRem{
+  width: 4rem;
+}
+.cinqRem{
+  width: 5rem;
+}
+
+.mentionsLegales{
+
+}
+
+.footer-rs{
+  justify-content: space-around;
+}
+#menu-item-191 a{
+  color: black;
+}

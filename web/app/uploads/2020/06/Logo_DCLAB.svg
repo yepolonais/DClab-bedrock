@@ -1,0 +1,1658 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 70.1" style="enable-background:new 0 0 100 70.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#007D8A;}
+	.st1{fill:#6CC24A;}
+	.st2{fill:#ECE81A;}
+</style>
+<g id="Maillage_DC">
+	<g>
+		<g>
+			<g>
+				<rect x="6.8" y="6" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="6.8" y="1" width="0.9" height="3"/>
+			</g>
+			<g>
+				<path d="M11.8,1V0H8.2v70h3.6v-1h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2
+					h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9V9h-0.9V6h0.9V4h-0.9V1H11.8z M10,69
+					H9.1v-3H10V69z M10,64H9.1v-3H10V64z M10,59H9.1v-3H10V59z M10,54H9.1v-3H10V54z M10,49H9.1v-3H10V49z M10,44H9.1v-3H10V44z
+					 M10,39H9.1v-3H10V39z M10,34H9.1v-3H10V34z M10,29H9.1v-3H10V29z M10,24H9.1v-3H10V24z M10,19H9.1v-3H10V19z M10,14H9.1v-3H10
+					V14z M10,9H9.1V6H10V9z M10,4H9.1V1H10V4z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1.8" y="1" width="0.9" height="3"/>
+			</g>
+			<g>
+				<path d="M6.8,1V0H3.2v70h3.6v-1H5.9v-3h0.9v-2H5.9v-3h0.9v-2H5.9v-3h0.9v-2H5.9v-3h0.9v-2H5.9v-3h0.9v-2H5.9v-3h0.9v-2H5.9v-3
+					h0.9v-2H5.9v-3h0.9v-2H5.9v-3h0.9v-2H5.9v-3h0.9v-2H5.9v-3h0.9v-2H5.9v-3h0.9V9H5.9V6h0.9V4H5.9V1H6.8z M5,69H4.1v-3H5V69z
+					 M5,64H4.1v-3H5V64z M5,59H4.1v-3H5V59z M5,54H4.1v-3H5V54z M5,49H4.1v-3H5V49z M5,44H4.1v-3H5V44z M5,39H4.1v-3H5V39z M5,34
+					H4.1v-3H5V34z M5,29H4.1v-3H5V29z M5,24H4.1v-3H5V24z M5,19H4.1v-3H5V19z M5,14H4.1v-3H5V14z M4.1,1H5v3H4.1V1z M4.1,6H5v3H4.1
+					V6z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1.8" y="6" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="6.8" y="16" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="6.8" y="11" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1.8" y="11" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1.8" y="16" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="6.8" y="26" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="6.8" y="21" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1.8" y="21" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1.8" y="26" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="6.8" y="36" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="6.8" y="31" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1.8" y="31" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1.8" y="36" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="6.8" y="46" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="6.8" y="41" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1.8" y="41" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1.8" y="46" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="6.8" y="56" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="6.8" y="51" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon points="0.9,1 0.9,4 1.8,4 1.8,6 0.9,6 0.9,9 1.8,9 1.8,11 0.9,11 0.9,14 1.8,14 1.8,16 0.9,16 0.9,19 1.8,19 1.8,21
+					0.9,21 0.9,24 1.8,24 1.8,26 0.9,26 0.9,29 1.8,29 1.8,31 0.9,31 0.9,34 1.8,34 1.8,36 0.9,36 0.9,39 1.8,39 1.8,41 0.9,41
+					0.9,44 1.8,44 1.8,46 0.9,46 0.9,49 1.8,49 1.8,51 0.9,51 0.9,54 1.8,54 1.8,56 0.9,56 0.9,59 1.8,59 1.8,61 0.9,61 0.9,64
+					1.8,64 1.8,66 0.9,66 0.9,69 1.8,69 1.8,70 0,70 0,0 1.8,0 1.8,1 				"/>
+				<rect x="1.8" y="51" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1.8" y="56" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="6.8" y="66" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="6.8" y="61" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1.8" y="61" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1.8" y="66" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="16.8" y="6" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="16.8" y="1" width="0.9" height="3"/>
+			</g>
+			<g>
+				<path d="M21.8,1V0h-3.6v70h3.6v-1h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2
+					h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9V9h-0.9V6h0.9V4h-0.9V1H21.8z M20,69
+					h-0.9v-3H20V69z M20,64h-0.9v-3H20V64z M20,59h-0.9v-3H20V59z M20,54h-0.9v-3H20V54z M20,49h-0.9v-3H20V49z M20,44h-0.9v-3H20
+					V44z M20,39h-0.9v-3H20V39z M20,34h-0.9v-3H20V34z M20,29h-0.9v-3H20V29z M20,24h-0.9v-3H20V24z M20,19h-0.9v-3H20V19z M20,14
+					h-0.9v-3H20V14z M20,9h-0.9V6H20V9z M20,4h-0.9V1H20V4z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="11.8" y="1" width="0.9" height="3"/>
+			</g>
+			<g>
+				<path d="M16.8,1V0h-3.6v70h3.6v-1h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2
+					h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9V9h-0.9V6h0.9V4h-0.9V1H16.8z M15,69
+					h-0.9v-3H15V69z M15,64h-0.9v-3H15V64z M15,59h-0.9v-3H15V59z M15,54h-0.9v-3H15V54z M15,49h-0.9v-3H15V49z M15,44h-0.9v-3H15
+					V44z M15,39h-0.9v-3H15V39z M15,34h-0.9v-3H15V34z M15,29h-0.9v-3H15V29z M15,24h-0.9v-3H15V24z M15,19h-0.9v-3H15V19z M15,14
+					h-0.9v-3H15V14z M14.1,1H15v3h-0.9V1z M14.1,6H15v3h-0.9V6z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="11.8" y="6" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="16.8" y="16" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="16.8" y="11" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="11.8" y="11" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="11.8" y="16" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="16.8" y="26" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="16.8" y="21" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="11.8" y="21" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="11.8" y="26" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="16.8" y="36" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="16.8" y="31" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="11.8" y="31" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="11.8" y="36" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="16.8" y="46" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="16.8" y="41" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="11.8" y="41" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="11.8" y="46" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="16.8" y="56" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="16.8" y="51" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="11.8" y="51" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="11.8" y="56" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="16.8" y="66" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="16.8" y="61" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="11.8" y="61" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="11.8" y="66" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="26.8" y="6" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="26.8" y="1" width="0.9" height="3"/>
+			</g>
+			<g>
+				<path d="M31.8,1V0h-3.6v70h3.6v-1h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2
+					h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9V9h-0.9V6h0.9V4h-0.9V1H31.8z M30,69
+					h-0.9v-3H30V69z M30,64h-0.9v-3H30V64z M30,59h-0.9v-3H30V59z M30,54h-0.9v-3H30V54z M30,49h-0.9v-3H30V49z M30,44h-0.9v-3H30
+					V44z M30,39h-0.9v-3H30V39z M30,34h-0.9v-3H30V34z M30,29h-0.9v-3H30V29z M30,24h-0.9v-3H30V24z M30,19h-0.9v-3H30V19z M30,14
+					h-0.9v-3H30V14z M30,9h-0.9V6H30V9z M30,4h-0.9V1H30V4z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="21.8" y="1" width="0.9" height="3"/>
+			</g>
+			<g>
+				<path d="M26.8,1V0h-3.6v70h3.6v-1h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2
+					h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9V9h-0.9V6h0.9V4h-0.9V1H26.8z M25,69
+					h-0.9v-3H25V69z M25,64h-0.9v-3H25V64z M25,59h-0.9v-3H25V59z M25,54h-0.9v-3H25V54z M25,49h-0.9v-3H25V49z M25,44h-0.9v-3H25
+					V44z M25,39h-0.9v-3H25V39z M25,34h-0.9v-3H25V34z M25,29h-0.9v-3H25V29z M25,24h-0.9v-3H25V24z M25,19h-0.9v-3H25V19z M25,14
+					h-0.9v-3H25V14z M24.1,1H25v3h-0.9V1z M24.1,6H25v3h-0.9V6z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="21.8" y="6" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="26.8" y="16" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="26.8" y="11" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="21.8" y="11" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="21.8" y="16" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="26.8" y="26" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="26.8" y="21" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="21.8" y="21" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="21.8" y="26" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="26.8" y="36" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="26.8" y="31" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="21.8" y="31" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="21.8" y="36" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="26.8" y="46" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="26.8" y="41" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="21.8" y="41" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="21.8" y="46" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="26.8" y="56" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="26.8" y="51" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="21.8" y="51" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="21.8" y="56" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="26.8" y="66" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="26.8" y="61" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="21.8" y="61" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="21.8" y="66" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="36.8" y="6" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="36.8" y="1" width="0.9" height="3"/>
+			</g>
+			<g>
+				<path d="M41.8,1V0h-3.6v70h3.6v-1h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2
+					h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9V9h-0.9V6h0.9V4h-0.9V1H41.8z M40,69
+					h-0.9v-3H40V69z M40,64h-0.9v-3H40V64z M40,59h-0.9v-3H40V59z M40,54h-0.9v-3H40V54z M40,49h-0.9v-3H40V49z M40,44h-0.9v-3H40
+					V44z M40,39h-0.9v-3H40V39z M40,34h-0.9v-3H40V34z M40,29h-0.9v-3H40V29z M40,24h-0.9v-3H40V24z M40,19h-0.9v-3H40V19z M40,14
+					h-0.9v-3H40V14z M40,9h-0.9V6H40V9z M40,4h-0.9V1H40V4z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="31.8" y="1" width="0.9" height="3"/>
+			</g>
+			<g>
+				<path d="M36.8,1V0h-3.6v70h3.6v-1h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2
+					h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9V9h-0.9V6h0.9V4h-0.9V1H36.8z M35,69
+					h-0.9v-3H35V69z M35,64h-0.9v-3H35V64z M35,59h-0.9v-3H35V59z M35,54h-0.9v-3H35V54z M35,49h-0.9v-3H35V49z M35,44h-0.9v-3H35
+					V44z M35,39h-0.9v-3H35V39z M35,34h-0.9v-3H35V34z M35,29h-0.9v-3H35V29z M35,24h-0.9v-3H35V24z M35,19h-0.9v-3H35V19z M35,14
+					h-0.9v-3H35V14z M34.1,1H35v3h-0.9V1z M34.1,6H35v3h-0.9V6z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="31.8" y="6" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="36.8" y="16" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="36.8" y="11" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="31.8" y="11" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="31.8" y="16" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="36.8" y="26" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="36.8" y="21" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="31.8" y="21" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="31.8" y="26" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="36.8" y="36" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="36.8" y="31" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="31.8" y="31" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="31.8" y="36" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="36.8" y="46" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="36.8" y="41" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="31.8" y="41" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="31.8" y="46" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="36.8" y="56" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="36.8" y="51" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="31.8" y="51" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="31.8" y="56" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="36.8" y="66" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="36.8" y="61" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="31.8" y="61" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="31.8" y="66" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="46.8" y="6" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="46.8" y="1" width="0.9" height="3"/>
+			</g>
+			<g>
+				<path d="M51.8,1V0h-3.6v70h3.6v-1h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2
+					h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9V9h-0.9V6h0.9V4h-0.9V1H51.8z M50,69
+					h-0.9v-3H50V69z M50,64h-0.9v-3H50V64z M50,59h-0.9v-3H50V59z M50,54h-0.9v-3H50V54z M50,49h-0.9v-3H50V49z M50,44h-0.9v-3H50
+					V44z M50,39h-0.9v-3H50V39z M50,34h-0.9v-3H50V34z M50,29h-0.9v-3H50V29z M50,24h-0.9v-3H50V24z M50,19h-0.9v-3H50V19z M50,14
+					h-0.9v-3H50V14z M50,9h-0.9V6H50V9z M50,4h-0.9V1H50V4z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="41.8" y="1" width="0.9" height="3"/>
+			</g>
+			<g>
+				<path d="M46.8,1V0h-3.6v70h3.6v-1h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2
+					h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9V9h-0.9V6h0.9V4h-0.9V1H46.8z M45,69
+					h-0.9v-3H45V69z M45,64h-0.9v-3H45V64z M45,59h-0.9v-3H45V59z M45,54h-0.9v-3H45V54z M45,49h-0.9v-3H45V49z M45,44h-0.9v-3H45
+					V44z M45,39h-0.9v-3H45V39z M45,34h-0.9v-3H45V34z M45,29h-0.9v-3H45V29z M45,24h-0.9v-3H45V24z M45,19h-0.9v-3H45V19z M45,14
+					h-0.9v-3H45V14z M44.1,1H45v3h-0.9V1z M44.1,6H45v3h-0.9V6z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="41.8" y="6" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="46.8" y="16" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="46.8" y="11" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="41.8" y="11" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="41.8" y="16" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="46.8" y="26" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="46.8" y="21" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="41.8" y="21" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="41.8" y="26" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="46.8" y="36" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="46.8" y="31" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="41.8" y="31" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="41.8" y="36" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="46.8" y="46" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="46.8" y="41" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="41.8" y="41" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="41.8" y="46" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="46.8" y="56" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="46.8" y="51" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="41.8" y="51" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="41.8" y="56" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="46.8" y="66" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="46.8" y="61" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="41.8" y="61" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="41.8" y="66" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="56.8" y="6" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="56.8" y="1" width="0.9" height="3"/>
+			</g>
+			<g>
+				<path d="M61.8,1V0h-3.6v70h3.6v-1h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2
+					h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9V9h-0.9V6h0.9V4h-0.9V1H61.8z M60,69
+					h-0.9v-3H60V69z M60,64h-0.9v-3H60V64z M60,59h-0.9v-3H60V59z M60,54h-0.9v-3H60V54z M60,49h-0.9v-3H60V49z M60,44h-0.9v-3H60
+					V44z M60,39h-0.9v-3H60V39z M60,34h-0.9v-3H60V34z M60,29h-0.9v-3H60V29z M60,24h-0.9v-3H60V24z M60,19h-0.9v-3H60V19z M60,14
+					h-0.9v-3H60V14z M60,9h-0.9V6H60V9z M60,4h-0.9V1H60V4z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="51.8" y="1" width="0.9" height="3"/>
+			</g>
+			<g>
+				<path d="M56.8,1V0h-3.6v70h3.6v-1h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2
+					h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9V9h-0.9V6h0.9V4h-0.9V1H56.8z M55,69
+					h-0.9v-3H55V69z M55,64h-0.9v-3H55V64z M55,59h-0.9v-3H55V59z M55,54h-0.9v-3H55V54z M55,49h-0.9v-3H55V49z M55,44h-0.9v-3H55
+					V44z M55,39h-0.9v-3H55V39z M55,34h-0.9v-3H55V34z M55,29h-0.9v-3H55V29z M55,24h-0.9v-3H55V24z M55,19h-0.9v-3H55V19z M55,14
+					h-0.9v-3H55V14z M54.1,1H55v3h-0.9V1z M54.1,6H55v3h-0.9V6z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="51.8" y="6" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="56.8" y="16" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="56.8" y="11" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="51.8" y="11" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="51.8" y="16" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="56.8" y="26" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="56.8" y="21" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="51.8" y="21" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="51.8" y="26" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="56.8" y="36" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="56.8" y="31" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="51.8" y="31" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="51.8" y="36" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="56.8" y="46" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="56.8" y="41" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="51.8" y="41" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="51.8" y="46" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="56.8" y="56" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="56.8" y="51" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="51.8" y="51" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="51.8" y="56" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="56.8" y="66" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="56.8" y="61" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="51.8" y="61" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="51.8" y="66" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="66.8" y="6" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="66.8" y="1" width="0.9" height="3"/>
+			</g>
+			<g>
+				<path d="M71.8,1V0h-3.6v70h3.6v-1h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2
+					h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9V9h-0.9V6h0.9V4h-0.9V1H71.8z M70,69
+					h-0.9v-3H70V69z M70,64h-0.9v-3H70V64z M70,59h-0.9v-3H70V59z M70,54h-0.9v-3H70V54z M70,49h-0.9v-3H70V49z M70,44h-0.9v-3H70
+					V44z M70,39h-0.9v-3H70V39z M70,34h-0.9v-3H70V34z M70,29h-0.9v-3H70V29z M70,24h-0.9v-3H70V24z M70,19h-0.9v-3H70V19z M70,14
+					h-0.9v-3H70V14z M70,9h-0.9V6H70V9z M70,4h-0.9V1H70V4z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="61.8" y="1" width="0.9" height="3"/>
+			</g>
+			<g>
+				<path d="M66.8,1V0h-3.6v70h3.6v-1h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2
+					h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9V9h-0.9V6h0.9V4h-0.9V1H66.8z M65,69
+					h-0.9v-3H65V69z M65,64h-0.9v-3H65V64z M65,59h-0.9v-3H65V59z M65,54h-0.9v-3H65V54z M65,49h-0.9v-3H65V49z M65,44h-0.9v-3H65
+					V44z M65,39h-0.9v-3H65V39z M65,34h-0.9v-3H65V34z M65,29h-0.9v-3H65V29z M65,24h-0.9v-3H65V24z M65,19h-0.9v-3H65V19z M65,14
+					h-0.9v-3H65V14z M64.1,1H65v3h-0.9V1z M64.1,6H65v3h-0.9V6z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="61.8" y="6" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="66.8" y="16" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="66.8" y="11" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="61.8" y="11" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="61.8" y="16" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="66.8" y="26" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="66.8" y="21" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="61.8" y="21" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="61.8" y="26" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="66.8" y="36" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="66.8" y="31" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="61.8" y="31" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="61.8" y="36" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="66.8" y="46" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="66.8" y="41" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="61.8" y="41" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="61.8" y="46" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="66.8" y="56" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="66.8" y="51" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="61.8" y="51" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="61.8" y="56" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="66.8" y="66" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="66.8" y="61" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="61.8" y="61" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="61.8" y="66" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="76.8" y="6" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="76.8" y="1" width="0.9" height="3"/>
+			</g>
+			<g>
+				<path d="M81.8,1V0H80v0h-1.8v70H80v0h1.8v-1h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9
+					v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9V9h-0.9V6h0.9V4h-0.9V1
+					H81.8z M79.1,1H80v3h-0.9V1z M80,69h-0.9v-3H80V69z M80,64h-0.9v-3H80V64z M80,59h-0.9v-3H80V59z M80,54h-0.9v-3H80V54z M80,49
+					h-0.9v-3H80V49z M80,44h-0.9v-3H80V44z M80,39h-0.9v-3H80V39z M80,34h-0.9v-3H80V34z M80,29h-0.9v-3H80V29z M80,24h-0.9v-3H80
+					V24z M80,19h-0.9v-3H80V19z M80,14h-0.9v-3H80V14z M80,9h-0.9V6H80V9z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="71.8" y="1" width="0.9" height="3"/>
+			</g>
+			<g>
+				<path d="M76.8,1V0h-3.6v70h3.6v-1h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2
+					h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9V9h-0.9V6h0.9V4h-0.9V1H76.8z M75,69
+					h-0.9v-3H75V69z M75,64h-0.9v-3H75V64z M75,59h-0.9v-3H75V59z M75,54h-0.9v-3H75V54z M75,49h-0.9v-3H75V49z M75,44h-0.9v-3H75
+					V44z M75,39h-0.9v-3H75V39z M75,34h-0.9v-3H75V34z M75,29h-0.9v-3H75V29z M75,24h-0.9v-3H75V24z M75,19h-0.9v-3H75V19z M75,14
+					h-0.9v-3H75V14z M74.1,1H75v3h-0.9V1z M74.1,6H75v3h-0.9V6z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="71.8" y="6" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="76.8" y="16" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="76.8" y="11" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="71.8" y="11" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="71.8" y="16" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="76.8" y="26" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="76.8" y="21" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="71.8" y="21" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="71.8" y="26" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="76.8" y="36" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="76.8" y="31" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="71.8" y="31" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="71.8" y="36" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="76.8" y="46" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="76.8" y="41" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="71.8" y="41" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="71.8" y="46" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="76.8" y="56" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="76.8" y="51" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="71.8" y="51" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="71.8" y="56" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="76.8" y="66" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="76.8" y="61" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="71.8" y="61" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="71.8" y="66" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="86.8" y="6" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="86.8" y="1" width="0.9" height="3"/>
+			</g>
+			<g>
+				<path d="M91.8,11v-1H90V9h-0.9V6H90V4h-0.9V1H90V0h-1.8v70H90v-1h-0.9v-3H90v-2h-0.9v-3H90v-1h1.8v-1h-0.9v-3h0.9v-2h-0.9v-3
+					h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3
+					H91.8z M90,59.1h-0.9v-3H90V59.1z M90,54.1h-0.9v-3H90V54.1z M90,49.1h-0.9v-3H90V49.1z M90,44.1h-0.9v-3H90V44.1z M90,39.1
+					h-0.9v-3H90V39.1z M90,34.1h-0.9v-3H90V34.1z M90,29h-0.9v-3H90V29z M90,24h-0.9v-3H90V24z M90,19h-0.9v-3H90V19z M90,14h-0.9
+					v-3H90V14z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="81.8" y="1" width="0.9" height="3"/>
+			</g>
+			<g>
+				<path d="M86.8,1V0h-3.6v70h3.6v-1h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2
+					h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9V9h-0.9V6h0.9V4h-0.9V1H86.8z
+					 M85,69.1h-0.9v-3H85V69.1z M85,64.1h-0.9v-3H85V64.1z M85,59.1h-0.9v-3H85V59.1z M85,54.1h-0.9v-3H85V54.1z M85,49.1h-0.9v-3
+					H85V49.1z M85,44.1h-0.9v-3H85V44.1z M85,39.1h-0.9v-3H85V39.1z M85,34.1h-0.9v-3H85V34.1z M85,29h-0.9v-3H85V29z M85,24h-0.9
+					v-3H85V24z M85,19h-0.9v-3H85V19z M85,14h-0.9v-3H85V14z M84.1,1H85v3h-0.9V1z M84.1,6H85v3h-0.9V6z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="81.8" y="6" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="86.8" y="16" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="86.8" y="11" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="81.8" y="11" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="81.8" y="16" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="86.8" y="26.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="86.8" y="21.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="81.8" y="21.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="81.8" y="26.1" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="86.8" y="36.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="86.8" y="31.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="81.8" y="31.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="81.8" y="36.1" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="86.8" y="46.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="86.8" y="41.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="81.8" y="41.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="81.8" y="46.1" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="86.8" y="56.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="86.8" y="51.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="81.8" y="51.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="81.8" y="56.1" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="86.8" y="66.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="86.8" y="61.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="81.8" y="61.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="81.8" y="66.1" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="96.8" y="26.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="96.8" y="21.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="91.8" y="21.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="91.8" y="26.1" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="96.8" y="56.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="96.8" y="51.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="91.8" y="51.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="91.8" y="56.1" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="96.8" y="46.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="96.8" y="41.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="91.8" y="41.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="91.8" y="46.1" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="96.8" y="36.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="96.8" y="31.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="91.8" y="31.1" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="91.8" y="36.1" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="96.8" y="16" width="0.9" height="3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="96.8" y="11" width="0.9" height="3"/>
+			</g>
+			<g>
+				<polygon points="99.1,11 99.1,14 100,14 100,16 99.1,16 99.1,19 100,19 100,21 99.1,21 99.1,24 100,24 100,26 99.1,26 99.1,29
+					100,29 100,31 99.1,31 99.1,34.1 100,34.1 100,36.1 99.1,36.1 99.1,39.1 100,39.1 100,41.1 99.1,41.1 99.1,44.1 100,44.1
+					100,46.1 99.1,46.1 99.1,49.1 100,49.1 100,51.1 99.1,51.1 99.1,54.1 100,54.1 100,56.1 99.1,56.1 99.1,59.1 100,59.1 100,60.1
+					98.2,60.1 98.2,10 100,10 100,11 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="91.8" y="11" width="0.9" height="3"/>
+			</g>
+			<g>
+				<path d="M96.8,11v-1h-3.6v50h3.6v-1h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9
+					v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3h0.9v-2h-0.9v-3H96.8z M95,59.1h-0.9v-3H95V59.1z M95,54.1h-0.9v-3H95V54.1z M94.1,11
+					H95v3h-0.9V11z M94.1,16H95v3h-0.9V16z M94.1,21H95v3h-0.9V21z M94.1,26H95v3h-0.9V26z M94.1,31H95v3h-0.9V31z M94.1,36.1H95v3
+					h-0.9V36.1z M94.1,41.1H95v3h-0.9V41.1z M94.1,46.1H95v3h-0.9V46.1z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="91.8" y="16" width="0.9" height="3"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="LAB">
+	<polygon id="B" class="st0" points="90,20 90,50 80,50 80,40 70,40 70,50 80,50 80,60 60,60 60,10 80,10 80,20 70,20 70,30 80,30
+		80,20 	"/>
+	<g id="A">
+		<rect x="40" y="10" class="st1" width="10" height="10"/>
+		<polygon class="st1" points="60,20 60,60 50,60 50,40 40,40 40,60 30,60 30,20 40,20 40,30 50,30 50,20 		"/>
+	</g>
+	<polygon id="L" class="st2" points="30,50 30,60 10,60 10,10 20,10 20,50 	"/>
+</g>
+</svg>

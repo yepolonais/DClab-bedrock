@@ -1,0 +1,45 @@
+footer{
+  background-color: var(--Blanc);
+  height: 55px;
+}
+.footer-rs{
+  display: flex;
+}
+
+.footer-logo{
+  width: 10rem;
+  height: auto;
+}
+.footer-ml{
+  font-size: 0.7rem;
+}
+.logoDC{
+  height: 60%;
+  line-height: 0;
+}
+.unRem{
+  width: 1rem;
+}
+.deuxRem{
+  width: 2rem;
+}
+.troisRem{
+  width: 3rem;
+}
+.quatreRem{
+  width: 4rem;
+}
+.cinqRem{
+  width: 5rem;
+}
+
+
+.footer-rs{
+  justify-content: space-around;
+}
+.footer-rs a{
+  margin: 0.3rem;
+}
+#menu-item-191 a{
+  color: black;
+}
