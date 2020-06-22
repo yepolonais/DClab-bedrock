@@ -6,9 +6,11 @@
     <div class="col-1 h-100 w-100"></div>
     <div class="col-10 h-100 w-100">
       <div class="row h-100 justify-content-between">
-
         <?php if (have_posts()) : ?>
           <?php while (have_posts()) : the_post() ?>
+            <?php// global $wp_query ; dump($wp_query) ?>
+            <?php // global $post ; dump($post) ?>
+            <?php // dump(get_post_meta( get_the_ID())) ?>
 
             <article>
               <div class="card h-100 card-cascade">

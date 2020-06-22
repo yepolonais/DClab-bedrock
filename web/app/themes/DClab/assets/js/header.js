@@ -29,11 +29,15 @@ $(function(){
 
 });
 
+/**
+ * Valide les choix des école/labs dans le header et passe leurs valeurs dans la requête
+ */
 ;(function(){
-  let selectedChoices = document.getElementsByClassName('form-control');
-  for(i=0;i<selectedChoices.length;i++){
-    let changedselection
-    console.log(selectedChoices[i].options);
-    selectedChoices[i].addEventListener('change', console.log("coucou"));
+  let selectedSchool = document.getElementById('school');
+  let selectedLabs = document.getElementById('labs');
+  selectedSchool.addEventListener('change', sendURLSchoolLab);
+  selectedLabs.addEventListener('change',sendURLSchoolLab);
+  function sendURLSchoolLab(){
+    document.forms[1].submit();
   }
 })();
