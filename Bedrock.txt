@@ -1,0 +1,85 @@
+--------------------------------------- Démarrer un projet WP avec Bedrock ---------------------------------------
+
+** DOC : https://roots.io/docs/bedrock/master/installation/#getting-started
+
+** Installe WP:
+    => composer create-project roots/bedrock <monprojet>
+
+** Renseigner le nom de la BDD, etc dans le fichier .env;
+
+** Générer les différentes clés a cette adresse:
+    =>https://roots.io/salts.html
+
+
+** Installer CLI {Si cela n'est pas déjà fait}:
+    => curl -O https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar
+
+** Renommer {wp-cli.phar} en {wp};
+
+** Ajouter le chemin de {wp} à la variable d'environnement PATH de windows;
+** Vérifier que les chemin de php et mariadb {Wamp} ont été ajoutés à la variable d'environnement PATH de windows;
+** Relancer tous les terminaux pour que la modification soit prise en compte;
+
+** Créer la bdd avec CLI {Les commandes de CLI fonctionnent en utilisant le préfixe {php wp} avec Powershell, {wp} avec Bash : utiliser de préférence le terminal Bash de VScode}
+   => wp db create
+
+** Lancer le serveur :
+   => php -S localhost:8000 -t web
+
+** Suivre le lien pour installer WP;
+
+** Dans le cas où des mises à jours de WP ou de plugins sont à effectuer, updater leur version dans composer.json et lancer la commande:
+   => composer update
+
+** Enlever les thèmes WP superflus présent dans le fichier {wp} : twentyeleven, twentytwelve, etc
+
+** Installer les librairies de composer qui nous intéressent!
+   => composer require symfony/var-dumper
+
+** Installer plusieurs plugins avec CLI
+** Les commandes fonctionnent maintenant en utilisant le préfixe {php wp} avec Powershell, {wp} avec Bash;
+
+** Par example pour installer et activer un ou plusieurs plugins:
+   => wp plugin install bbpress --activate
+   => wp plugin install contact-form-7 advanced-custom-fields query-monitor duplicate-page --activate
+
+** Régénérer tous les thumbnails
+   => wp media regenerate --yes
+
+** Recharger les permalinks
+   => wp rewrite structure
+
+
+--------------------------------------- Récupérer un projet WP créé avec Bedrock  ---------------------------------------
+
+** Télécharger Wamp, Composer
+** Renseigner les paths de php et mariadb {Wamp} dans les variables d'environnement de Windows
+
+** Cloner le projet git.
+
+** Installer les dépendances
+   => composer install
+
+** Dupliquer le fichier .env.example en .env, et vérifier que les login/mdp sont corrects pour accéder à notre BDD locale;
+
+** Ajouter le chemin de {wp} à la variable d'environnement PATH de windows. Ce fichier se trouve à la racine du projet.
+
+** Relancer le terminal pour que la modification soit prise en compte;
+
+** Les commandes fonctionnent maintenant en utilisant le préfixe {php wp} avec Powershell, {wp} avec Bash;
+
+** Créer une bdd vide. Son nom est défini au préalable dans le fichier .env
+   => wp db create
+
+** Importer la bdd présente dans la racine
+   => wp db import <nom de la bdd>
+   => wp db import agencia {pour notre projet}
+
+
+
+
+--------------------------------------- BUGS observés ---------------------------------------
+
+** Si la barre d'admin wp_head() n'apparait pas, penser à se connecter:
+   => http://localhost:8000/wp/wp-admin.php/
+
