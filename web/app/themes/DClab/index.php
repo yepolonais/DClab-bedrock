@@ -22,7 +22,7 @@
                   <!-- Title -->
                   <h4 class="card-title"><strong><?php the_title() ?></strong></h4>
                   <!-- Subtitle -->
-                  <p class="dclab__author font-weight-bold indigo-text"><?php the_author() ?></p>
+                  <p class="dclab__author font-weight-bold indigo-text"><?php the_author() ?><span class="dclab__ecole">[<?php dclab_ecole_post() ?>]</span><span class="dclab__labs">[<?php dclab_lab_post() ?>]</span></p>
                   <!-- Text -->
                   <p class="card-text"><?= wp_trim_excerpt() ?></p>
                 </div>

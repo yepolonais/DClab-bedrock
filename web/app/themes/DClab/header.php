@@ -60,14 +60,15 @@
 					</div>
 				</div>
 				<div class="col-2 dclab__school h-100 w-100">
-					<div id="navbarSupportedContent h-100 w-100">
-						<form action="">
-							<select name="school" id="school">
-								<option selected><?= __('Toutes les écoles', 'dclab')   ?></option>
-								<?php dclab_choix_ecoles() ?>
-							</select>
+					<div id="navbarSupportedContent" class="h-100 w-100">
+						<form class="h-100 w-100" action="">
+							<div class="form-group h-100 w-100 d-flex align-items-center justify-content-center">
+								<select class="form-control h-75 w-100" name="school" id="school">
+									<option selected><?= __('Toutes les écoles', 'dclab')   ?></option>
+									<?php dclab_choix_ecoles() ?>
+								</select>
+							</div>
 						</form>
-
 					</div>
 				</div>
 				<div class="col-4 h-100 w-100">
@@ -76,12 +77,14 @@
 					</div>
 				</div>
 				<div class="col-4 dclab__labs h-100 w-100">
-					<div id="navbarSupportedContent w-100 h-100">
-						<form action="">
-							<select name="labs" id="labs">
-								<option selected><?= __('Toutes les labs', 'dclab')   ?></option>
-								<?php dclab_choix_labs() ?>
-							</select>
+					<div id="navbarSupportedContent" class="w-100 h-100">
+						<form class="h-100 w-100" action="">
+							<div class="form-group h-100 w-100 d-flex align-items-center justify-content-center">
+								<select class="form-control h-75 w-100" name="labs" id="labs">
+									<option selected><?= __('Tous les labs', 'dclab')   ?></option>
+									<?php dclab_choix_labs() ?>
+								</select>
+							</div>
 						</form>
 					</div>
 				</div>

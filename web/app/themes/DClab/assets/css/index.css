@@ -36,6 +36,10 @@ article{
   font-size: 0.5rem;
   margin-bottom: 0.2rem !important;
 }
+
+.dclab__ecole, .dclab__labs{
+  font-size: 0.35rem;
+}
 .card-text{
   font-size: 0.45rem;
 }

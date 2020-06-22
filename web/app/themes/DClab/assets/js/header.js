@@ -28,3 +28,12 @@ $(function(){
   //bouton switch
 
 });
+
+;(function(){
+  let selectedChoices = document.getElementsByClassName('form-control');
+  for(i=0;i<selectedChoices.length;i++){
+    let changedselection
+    console.log(selectedChoices[i].options);
+    selectedChoices[i].addEventListener('change', console.log("coucou"));
+  }
+})();

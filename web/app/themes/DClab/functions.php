@@ -158,6 +158,28 @@ function dclab_choix_labs() : void {
   }
 }
 
+/**
+ * Affiche les écoles assignées à un article
+ */
+function dclab_ecole_post(){
+  $schools = get_field('school');
+  foreach($schools as $school){
+    echo ' ' . $school .' ';
+  }
+}
+
+/**
+ * Affiche les labs assignées à un article
+ */
+function dclab_lab_post(){
+  $labs = get_field('labs');
+  foreach($labs as $$lab){
+    echo ' ' . $$lab .' ';
+  }
+}
+
+
+
 
 
 /**
