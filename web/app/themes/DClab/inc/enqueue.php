@@ -15,6 +15,9 @@ add_action('wp_enqueue_scripts', function(){
 	if(is_home()){
 		wp_enqueue_style( 'dclab_index', get_theme_file_uri() . '/assets/css/index.css');
 	}
+	if(is_front_page()){
+		wp_enqueue_style( 'dclab_accueil', get_theme_file_uri() . '/assets/css/accueil.css');
+	}
 
 	// Enqueue scripts.
 	wp_enqueue_script( 'fontawesome', get_theme_file_uri() . '/assets/js/fontawesome.js');
