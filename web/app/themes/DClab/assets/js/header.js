@@ -38,6 +38,10 @@ $(function(){
   selectedSchool.addEventListener('change', sendURLSchoolLab);
   selectedLabs.addEventListener('change',sendURLSchoolLab);
   function sendURLSchoolLab(){
-    document.forms[1].submit();
+    let formulaires = document.forms;
+    for(i=0;i<formulaires.length;i++){
+      if(document.forms[i].attributes.id === 'adminbarsearch'){return};
+        document.forms[i].submit();
+    }
   }
 })();
