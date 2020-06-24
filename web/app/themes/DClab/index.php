@@ -8,7 +8,7 @@
       <div class="row h-100 justify-content-between">
         <?php if (have_posts()) : ?>
           <?php while (have_posts()) : the_post() ?>
-            <?php// global $wp_query ; dump($wp_query) ?>
+            <?php // global $wp_query ; dump($wp_query) ?>
             <?php // global $post ; dump($post) ?>
             <?php // dump(get_post_meta( get_the_ID())) ?>
 
@@ -26,7 +26,7 @@
                   <!-- Subtitle -->
                   <p class="dclab__author font-weight-bold indigo-text"><?php the_author() ?><span class="dclab__ecole">[<?php dclab_ecole_post() ?>]</span><span class="dclab__labs">[<?php dclab_lab_post() ?>]</span></p>
                   <!-- Text -->
-                  <p class="card-text"><?= wp_trim_excerpt() ?></p>
+                  <p class="card-text"><?= the_content() ?></p>
                 </div>
                 <!-- Card footer -->
                 <div class="card-footer text-muted d-flex align-items-center justify-content-around">

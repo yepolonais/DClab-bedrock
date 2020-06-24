@@ -69,7 +69,7 @@
 						<div class="col-6 dclab__school h-100 w-100">
 							<div id="navbarSupportedContent" class="h-100 w-100">
 								<div class="form-group h-100 w-100 d-flex align-items-center justify-content-center">
-									<select class="form-control h-75 w-100" name="school" id="school">
+									<select class="form-control h-75 w-100" name="school" id="school" <?php disabled(is_front_page())?>>
 										<option value=""><?= __('Toutes les écoles', 'dclab')   ?></option>
 										<?php dclab_choix_ecoles() ?>
 									</select>
@@ -79,7 +79,7 @@
 						<div class="col-6 dclab__labs h-100 w-100">
 							<div id="navbarSupportedContent" class="w-100 h-100">
 								<div class="form-group h-100 w-100 d-flex align-items-center justify-content-center">
-									<select class="form-control h-75 w-100" name="labs" id="labs">
+									<select class="form-control h-75 w-100" name="labs" id="labs" <?php disabled(is_front_page())?>>
 										<option value=""><?= __('Tous les labs', 'dclab')   ?></option>
 										<?php dclab_choix_labs() ?>
 									</select>

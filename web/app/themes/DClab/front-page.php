@@ -14,7 +14,8 @@
           <?php $queryPosts = new WP_Query($args); ?>
           <?php if ($queryPosts->have_posts()) : ?>
             <?php while ($queryPosts->have_posts()) : $queryPosts->the_post() ?>
-              <?php// global $wp_query ; dump($wp_query) ?>
+              <?php  // dump($queryPosts) ?>
+              <?php // global $wp_query ; dump($wp_query) ?>
               <?php // global $post ; dump($post)
               ?>
               <?php // dump(get_post_meta( get_the_ID()))<
@@ -49,13 +50,14 @@
         </div>
         <div class="col-4 h-100 w-100">
           <?php $args = [
-          'post_type' => 'post',
+          'post_type' => 'tribe_events',
           ]
           ?>
-          <?php $queryPosts = new WP_Query($args); ?>
-          <?php if (have_posts()) : ?>
-            <?php while (have_posts()) : the_post() ?>
-              <?php// global $wp_query ; dump($wp_query) ?>
+          <?php $queryEvent = new WP_Query($args); ?>
+          <?php if ($queryEvent->have_posts()) : ?>
+            <?php while ($queryEvent->have_posts()) : $queryEvent->the_post() ?>
+            <?php //  dump($queryEvent) ?>
+              <?php // global $wp_query ; dump($wp_query) ?>
               <?php // global $post ; dump($post)
               ?>
               <?php // dump(get_post_meta( get_the_ID()))
@@ -96,7 +98,8 @@
           <?php $queryForum = new WP_Query($args); ?>
           <?php if ($queryForum->have_posts()) : ?>
             <?php while ($queryForum->have_posts()) : $queryForum->the_post() ?>
-              <?php// global $wp_query ; dump($wp_query) ?>
+            <?php //  dump($queryForum) ?>
+              <?php // global $wp_query ; dump($wp_query) ?>
               <?php // global $post ; dump($post)
               ?>
               <?php // dump(get_post_meta( get_the_ID()))

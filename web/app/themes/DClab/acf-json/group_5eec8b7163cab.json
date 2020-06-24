@@ -16,7 +16,7 @@
                 "id": ""
             },
             "choices": {
-                "marketing": "marketing",
+                "marketing": "Marketing",
                 "development": "Développement",
                 "design": "Design"
             },
@@ -80,5 +80,5 @@
     "hide_on_screen": "",
     "active": 1,
     "description": "",
-    "modified": 1592838497
+    "modified": 1592932427
 }

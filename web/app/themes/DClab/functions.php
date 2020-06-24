@@ -139,13 +139,13 @@ function dclab_choix_ecoles() : void {
   $schools = $field['choices'];
   $selected = get_query_var('school');
   foreach($schools as $key => $value){
-    if($value === $selected){
+    if($key === $selected){
       echo <<<HTML
-      <option value="{$value}" selected>{$value}</option>
+      <option value="{$key}" selected>{$value}</option>
       HTML;
     } else {
       echo <<<HTML
-      <option value="{$value}">{$value}</option>
+      <option value="{$key}">{$value}</option>
       HTML;
     }
   }
@@ -161,13 +161,16 @@ function dclab_choix_labs() : void {
   $labs = $field['choices'];
   $selected = get_query_var('labs');
   foreach($labs as $key => $value){
-    if($value === $selected){
+    if($value === 'Développement'){
+      $value = _x('Développement', 'selected option choix du lab', 'dclab');
+    }
+    if($key === $selected){
       echo <<<HTML
-      <option value="{$value}" selected>{$value}</option>
+      <option value="{$key}" selected>{$value}</option>
       HTML;
     } else {
       echo <<<HTML
-      <option value="{$value}">{$value}</option>
+      <option value="{$key}">{$value}</option>
       HTML;
     }
   }
@@ -193,8 +196,13 @@ function dclab_lab_post(){
   }
 }
 
-
-
+/**
+ * Gestion du multilingue
+ */
+function my_theme_load_theme_textdomain() {
+    load_theme_textdomain( 'dclab', get_template_directory() . '/languages' );
+}
+add_action( 'after_setup_theme', 'my_theme_load_theme_textdomain' );
 
 
 /**

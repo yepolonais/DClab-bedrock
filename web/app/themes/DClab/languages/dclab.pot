@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dclab\n"
+"POT-Creation-Date: 2020-06-24 10:59+0200\n"
+"PO-Revision-Date: 2020-06-24 10:59+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_x;_e;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive-emploi.php:35 archive-ressources.php:35 archive-videos.php:35
+#: front-page.php:43 front-page.php:85 front-page.php:127 home.php:35
+#: index.php:35
+msgid "Lire"
+msgstr ""
+
+#: custom-posts/emploi.php:10 custom-posts/emploi.php:19
+msgid "Emplois"
+msgstr ""
+
+#: custom-posts/emploi.php:11 custom-posts/emploi.php:12
+#: custom-posts/emploi.php:13
+msgid "Emploi"
+msgstr ""
+
+#: custom-posts/emploi.php:14 custom-posts/ressources.php:14
+#: custom-posts/videos.php:14
+msgid "Ajouter"
+msgstr ""
+
+#: custom-posts/emploi.php:15
+msgid "Ajouter un emploi"
+msgstr ""
+
+#: custom-posts/emploi.php:16
+msgid "Nouvel emploi"
+msgstr ""
+
+#: custom-posts/emploi.php:17
+msgid "Editer l'emploi"
+msgstr ""
+
+#: custom-posts/emploi.php:18
+msgid "Voir l'emploi"
+msgstr ""
+
+#: custom-posts/emploi.php:20
+msgid "Rechercher un emploi"
+msgstr ""
+
+#: custom-posts/emploi.php:21
+msgid "Emplois parents :"
+msgstr ""
+
+#: custom-posts/emploi.php:22
+msgid "Aucun emploi n'a été trouvé"
+msgstr ""
+
+#: custom-posts/emploi.php:23
+msgid "Aucun emploi n'a été trouvé dans la poubelle"
+msgstr ""
+
+#: custom-posts/emploi.php:29 custom-posts/ressources.php:29
+#: custom-posts/videos.php:29
+msgid "Description."
+msgstr ""
+
+#: custom-posts/ressources.php:10 custom-posts/ressources.php:12
+#: custom-posts/ressources.php:19
+msgid "Ressources"
+msgstr ""
+
+#: custom-posts/ressources.php:11 custom-posts/ressources.php:13
+msgid "ressource"
+msgstr ""
+
+#: custom-posts/ressources.php:15
+msgid "Ajouter une ressource"
+msgstr ""
+
+#: custom-posts/ressources.php:16
+msgid "Nouvelle ressource"
+msgstr ""
+
+#: custom-posts/ressources.php:17
+msgid "Editer la ressource"
+msgstr ""
+
+#: custom-posts/ressources.php:18
+msgid "Voir la ressource"
+msgstr ""
+
+#: custom-posts/ressources.php:20
+msgid "Rechercher une ressource"
+msgstr ""
+
+#: custom-posts/ressources.php:21
+msgid "Ressources parentes :"
+msgstr ""
+
+#: custom-posts/ressources.php:22
+msgid "Aucune Ressource n'a été trouvée"
+msgstr ""
+
+#: custom-posts/ressources.php:23
+msgid "Aucune Ressource n'a été trouvée dans la poubelle"
+msgstr ""
+
+#: custom-posts/videos.php:10 custom-posts/videos.php:12
+msgid "Vidéos"
+msgstr ""
+
+#: custom-posts/videos.php:11 custom-posts/videos.php:13
+msgid "Vidéo"
+msgstr ""
+
+#: custom-posts/videos.php:15
+msgid "Ajouter une vidéo"
+msgstr ""
+
+#: custom-posts/videos.php:16
+msgid "Nouvelle vidéo"
+msgstr ""
+
+#: custom-posts/videos.php:17
+msgid "Editer la vidéo"
+msgstr ""
+
+#: custom-posts/videos.php:18
+msgid "Voir la vidéo"
+msgstr ""
+
+#: custom-posts/videos.php:19
+msgid "Videos"
+msgstr ""
+
+#: custom-posts/videos.php:20
+msgid "Rechercher une vidéo"
+msgstr ""
+
+#: custom-posts/videos.php:21
+msgid "Vidéos parentes :"
+msgstr ""
+
+#: custom-posts/videos.php:22
+msgid "Aucune vidéo n'a été trouvée"
+msgstr ""
+
+#: custom-posts/videos.php:23
+msgid "Aucune vidéo n'a été trouvée dans la poubelle"
+msgstr ""
+
+#: functions.php:33
+msgid "Icone de "
+msgstr ""
+
+#: header.php:26
+msgid "Page d'accueil"
+msgstr ""
+
+#: header.php:73
+msgid "Toutes les écoles"
+msgstr ""
+
+#: header.php:83
+msgid "Tous les labs"
+msgstr ""
+
+#: inc/customize.php:9
+msgid "Logo du site"
+msgstr ""
+
+#: inc/customize.php:15
+msgid "Logo"
+msgstr ""
+
+#: template-parts/content-infosprofil.php:22
+#, php-format
+msgid "User email: %s"
+msgstr ""
+
+#: template-parts/content-infosprofil.php:23
+#, php-format
+msgid "User first name: %s"
+msgstr ""
+
+#: template-parts/content-infosprofil.php:24
+#, php-format
+msgid "User last name: %s"
+msgstr ""
+
+#: template-parts/content-infosprofil.php:25
+#, php-format
+msgid "User display name: %s"
+msgstr ""
+
+#: template-parts/content-infosprofil.php:31
+#, php-format
+msgid "User ID: %s"
+msgstr ""
