@@ -42,9 +42,13 @@
 							<?= dclab_icon('notifications')   ?>
 						</div>
 						<div class="header-account d-flex flex-column">
+						<a class="header-logo d-flex align-items-center justify-content-center w-100 h-100" href="http://localhost:8000/index.php/infosprofil/">
 							<div class="header-logo d-flex align-items-center justify-content-center w-100 h-100">
+							
 								<?= dclab_icon('user') ?>
+						
 							</div>
+						</a>
 							<div class="header-name d-flex align-items-center justify-content-center w-100 h-100">
 								<?= wp_get_current_user()->user_nicename;	?>
 							</div>
