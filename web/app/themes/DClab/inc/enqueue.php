@@ -18,6 +18,9 @@ add_action('wp_enqueue_scripts', function(){
 	if(is_front_page()){
 		wp_enqueue_style( 'dclab_accueil', get_theme_file_uri() . '/assets/css/accueil.css');
 	}
+	if(is_page('infosprofil')){
+		wp_enqueue_style( 'dclab_accueil', get_theme_file_uri() . '/assets/css/infosprofil.css');
+	}
 
 	// Enqueue scripts.
 	wp_enqueue_script( 'fontawesome', get_theme_file_uri() . '/assets/js/fontawesome.js');
