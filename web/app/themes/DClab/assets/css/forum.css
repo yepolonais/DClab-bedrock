@@ -7,18 +7,8 @@ main{
 .dclab__articles{
   height: calc(100% - 35px);
 }
-.titre__accueil{
-  background-color: var(--BleuMarket);
-  color: var(--Blanc);
-  height: 70px;
-  margin-bottom: 0.3rem;
-  border-radius: 0.25rem;
-}
-.titre__accueil>h2{
-  font-size: 1.2rem;
-  margin-bottom: 0!important;
-}
 article{
+  flex: 1;
   margin-bottom: 0.3rem;
 }
 .view-cascade{
@@ -63,4 +53,11 @@ article{
 }
 .svg-inline--fa {
     vertical-align: sub;
+}
+
+.view-cascade{
+  display: none;
+}
+.card-footer{
+  display: none!important;
 }

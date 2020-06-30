@@ -21,6 +21,12 @@ add_action('wp_enqueue_scripts', function(){
 	if(is_page('infosprofil')){
 		wp_enqueue_style( 'dclab_accueil', get_theme_file_uri() . '/assets/css/infosprofil.css');
 	}
+	if(is_post_type_archive('tribe_events')){
+		wp_enqueue_style( 'dclab_events', get_theme_file_uri() . '/assets/css/evenement.css');
+	}
+	if(is_post_type_archive('forum')){
+		wp_enqueue_style( 'dclab_forum', get_theme_file_uri() . '/assets/css/forum.css');
+	}
 
 	// Enqueue scripts.
 	wp_enqueue_script( 'fontawesome', get_theme_file_uri() . '/assets/js/fontawesome.js');

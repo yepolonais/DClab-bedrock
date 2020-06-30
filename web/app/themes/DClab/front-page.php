@@ -6,7 +6,11 @@
     <div class="col-1 h-100 w-100"></div>
     <div class="col-10 h-100 w-100">
       <div class="row h-100 justify-content-between">
+
         <div class="col-4 h-100 w-100">
+          <div class="titre__accueil d-flex align-items-center justify-content-center text-capitalize">
+            <h2>Actualités</h2>
+          </div>
           <?php $args = [
             'post_type' => 'post',
           ]
@@ -14,8 +18,10 @@
           <?php $queryPosts = new WP_Query($args); ?>
           <?php if ($queryPosts->have_posts()) : ?>
             <?php while ($queryPosts->have_posts()) : $queryPosts->the_post() ?>
-              <?php  // dump($queryPosts) ?>
-              <?php // global $wp_query ; dump($wp_query) ?>
+              <?php  // dump($queryPosts)
+              ?>
+              <?php // global $wp_query ; dump($wp_query)
+              ?>
               <?php // global $post ; dump($post)
               ?>
               <?php // dump(get_post_meta( get_the_ID()))<
@@ -48,16 +54,22 @@
             <?php endwhile ?>
           <?php endif ?>
         </div>
+
         <div class="col-4 h-100 w-100">
+          <div class="titre__accueil d-flex align-items-center justify-content-center text-capitalize">
+            <h2>forums</h2>
+          </div>
           <?php $args = [
-          'post_type' => 'tribe_events',
+            'post_type' => 'topic',
           ]
           ?>
           <?php $queryEvent = new WP_Query($args); ?>
           <?php if ($queryEvent->have_posts()) : ?>
             <?php while ($queryEvent->have_posts()) : $queryEvent->the_post() ?>
-            <?php //  dump($queryEvent) ?>
-              <?php // global $wp_query ; dump($wp_query) ?>
+              <?php //  dump($queryEvent)
+              ?>
+              <?php // global $wp_query ; dump($wp_query)
+              ?>
               <?php // global $post ; dump($post)
               ?>
               <?php // dump(get_post_meta( get_the_ID()))
@@ -90,16 +102,22 @@
             <?php endwhile ?>
           <?php endif ?>
         </div>
+
         <div class="col-4 h-100 w-100">
+          <div class="titre__accueil d-flex align-items-center justify-content-center text-capitalize">
+            <h2>évènements</h2>
+          </div>
           <?php $args = [
-          'post_type' => 'forum',
+            'post_type' => 'tribe_events',
           ]
           ?>
           <?php $queryForum = new WP_Query($args); ?>
           <?php if ($queryForum->have_posts()) : ?>
             <?php while ($queryForum->have_posts()) : $queryForum->the_post() ?>
-            <?php //  dump($queryForum) ?>
-              <?php // global $wp_query ; dump($wp_query) ?>
+              <?php //  dump($queryForum)
+              ?>
+              <?php // global $wp_query ; dump($wp_query)
+              ?>
               <?php // global $post ; dump($post)
               ?>
               <?php // dump(get_post_meta( get_the_ID()))
