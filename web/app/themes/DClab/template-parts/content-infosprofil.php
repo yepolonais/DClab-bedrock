@@ -5,11 +5,12 @@
 <div class="wrapper">
 	<div class="container">
 
-		<section class="home-blog">
+		<section class="home-blog2">
 
             <h1>Mon compte </h1>
+            <br>
 
-            <h3>Les données natives du current user</h3>
+            
 
 
 
@@ -17,7 +18,7 @@
 <?php
     $current_user = wp_get_current_user();
 
-    printf(  $current_user->user_login  ) . '<br />';
+    /*printf(  $current_user->user_login  ) . '<br />';
 
     printf( __( 'User email: %s', 'textdomain' ), esc_html( $current_user->user_email ) ) . '<br />';
     printf( __( 'User first name: %s', 'textdomain' ), esc_html( $current_user->user_firstname ) ) . '<br />';
@@ -28,25 +29,24 @@
     echo "Mon ";
 
 
-    printf( __( 'User ID: %s', 'textdomain' ), esc_html( $current_user->ID ) );
+    printf( __( 'User ID: %s', 'textdomain' ), esc_html( $current_user->ID ) );*/
 ?>
 
-            <h1>Les métas users qu'on a créé</h1>
+            
 
-            <img class="AvatarBody" id="Placeholder2DAvatarImage" alt="" src="http://avatar.xboxlive.com:80/avatar/<?php echo ($curauth->gamertag); /*le body avatar*/ ?>/avatar-body.png" />
-    <form action="" method="POST">
-    
+    <img class="AvatarBody" id="Placeholder2DAvatarImage" alt="" src="http://avatar.xboxlive.com:80/avatar/<?php echo ($curauth->gamertag); /*le body avatar*/ ?>/avatar-body.png" />
+    <form action="" method="POST" class="form-group">
         <div class="form-group">
             <label for="exampleFormControlInput1">PSEUDO</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="<?php echo $current_user->user_login ?>">
+            <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="<?php echo $current_user->user_login?>" value="<?php echo $current_user->user_login?>">
         </div>
         <div class="form-group">
             <label for="exampleFormControlInput1">NOM</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="<?php echo $current_user->user_lastname ?>">
+            <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="<?php echo $current_user->user_lastname ?>" value="<?php echo $current_user->user_lastname ?>">
         </div>
         <div class="form-group">
             <label for="exampleFormControlInput1">PRÉNOM</label>
-            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="<?php echo $current_user->user_firstname ?>">
+            <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="<?php echo $current_user->user_firstname ?>" value="<?php echo $current_user->user_firstname ?>">
         </div>
         <div class="form-group">
             <label for="exampleFormControlSelect1">ÉCOLE</label>
@@ -62,9 +62,10 @@
         <div class="form-group">
             <label for="exampleFormControlSelect1">Classe</label>
             <select class="form-control" id="exampleFormControlSelect1">
-            <option>Classe1</option>
-            <option>Classe2</option>
-            <option>Classe3</option>
+                <option> <?php echo get_user_meta($current_user->ID)['classe'][0] ?> </option>
+                <option>1er année</option>
+                <option>seconde année</option>
+                <option>troisième année</option>
             </select>
         </div>
         <div class="form-group">
@@ -89,18 +90,18 @@
         </div>
         <div class="form-group">
             <label for="exampleFormControlInput1">TEL</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="telephone" value="<?php echo get_user_meta($current_user->ID)['telephone'][0] ?>">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="telephone" placeholder="<?php echo get_user_meta($current_user->ID)['telephone'][0] ?>" value="<?php echo get_user_meta($current_user->ID)['telephone'][0] ?>">
         </div>
         <div class="form-group">
             <label for="exampleFormControlInput1">DOMICILE</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="domicile" value="<?php echo get_user_meta($current_user->ID)['domicile'][0] ?>">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="domicile" placeholder="<?php echo get_user_meta($current_user->ID)['domicile'][0] ?>" value="<?php echo get_user_meta($current_user->ID)['domicile'][0] ?>">
         </div>
         <div class="form-group">
             <label for="exampleFormControlInput1">ENTREPRISE</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" name="entreprise" value="<?php echo get_user_meta($current_user->ID)['entreprise'][0] ?>">
+            <input type="text" class="form-control" id="exampleFormControlInput1" name="entreprise" placeholder="<?php echo get_user_meta($current_user->ID)['entreprise'][0] ?>" value="<?php echo get_user_meta($current_user->ID)['entreprise'][0] ?>">
         </div>
 
-        <input type="submit" value="Validez les modifications">
+        <input class="ok" type="submit" value="Validez les modifications">
 
         <!--<button class="btn btn-primary">Primary</button>  -->
 
@@ -112,7 +113,7 @@
 
     <?php 
 
-    echo "<h2>les nouvelles données</h2>";
+    /*
     echo "<br>";
     echo get_user_meta($current_user->ID)['ecole'][0];
     echo "<br>";
@@ -123,7 +124,7 @@
     echo get_user_meta($current_user->ID)['entreprise'][0];
 
     echo "<br>";
-
+*/
 
 
 
@@ -169,6 +170,7 @@
 
 
     <?php
+    /*
     $birthday = get_user_meta($current_user->ID)['birthday'][0];
     echo $birthday;
     echo '<br>';
@@ -183,7 +185,7 @@
 
 
 
-
+*/
     ?>
            
 

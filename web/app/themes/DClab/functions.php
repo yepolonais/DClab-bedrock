@@ -7,6 +7,7 @@ require_once 'inc/menus.php';
 require_once 'inc/style.php'; //filtre ou hook ayant attrait au style
 require_once 'inc/images.php';
 require_once 'inc/query/post.php';
+require_once 'inc/query/query_vars.php';
 require_once 'inc/addMetaUser.php';
 
 /**
@@ -136,10 +137,17 @@ function dclab_choix_ecoles() : void {
   $field_key = "field_5eec924ac299f";
   $field = get_field_object($field_key);
   $schools = $field['choices'];
+  $selected = get_query_var('school');
   foreach($schools as $key => $value){
-    echo <<<HTML
-    <option value="{$value}">{$value}</option>
-    HTML;
+    if($key === $selected){
+      echo <<<HTML
+      <option value="{$key}" selected>{$value}</option>
+      HTML;
+    } else {
+      echo <<<HTML
+      <option value="{$key}">{$value}</option>
+      HTML;
+    }
   }
 }
 
@@ -150,11 +158,21 @@ function dclab_choix_ecoles() : void {
 function dclab_choix_labs() : void {
   $field_key = "field_5eec8b7ca0a5f";
   $field = get_field_object($field_key);
-  $schools = $field['choices'];
-  foreach($schools as $key => $value){
-    echo <<<HTML
-    <option value="{$value}">{$value}</option>
-    HTML;
+  $labs = $field['choices'];
+  $selected = get_query_var('labs');
+  foreach($labs as $key => $value){
+    if($value === 'Développement'){
+      $value = _x('Développement', 'selected option choix du lab', 'dclab');
+    }
+    if($key === $selected){
+      echo <<<HTML
+      <option value="{$key}" selected>{$value}</option>
+      HTML;
+    } else {
+      echo <<<HTML
+      <option value="{$key}">{$value}</option>
+      HTML;
+    }
   }
 }
 
@@ -173,13 +191,18 @@ function dclab_ecole_post(){
  */
 function dclab_lab_post(){
   $labs = get_field('labs');
-  foreach($labs as $$lab){
-    echo ' ' . $$lab .' ';
+  foreach($labs as $lab){
+    echo ' ' . $lab .' ';
   }
 }
 
-
-
+/**
+ * Gestion du multilingue
+ */
+function my_theme_load_theme_textdomain() {
+    load_theme_textdomain( 'dclab', get_template_directory() . '/languages' );
+}
+add_action( 'after_setup_theme', 'my_theme_load_theme_textdomain' );
 
 
 /**
@@ -195,7 +218,7 @@ add_action('pre_get_posts', function(WP_Query $query) : void {
   {
     return;
   }
-  // dump($query);
+  //dump($query);
   // dump($query->query['pagename']);
   // dump($query->query['post_type']);
   // dump($query->queried_object->label);

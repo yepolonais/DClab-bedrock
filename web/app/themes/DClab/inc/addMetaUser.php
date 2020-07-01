@@ -60,9 +60,9 @@ function userMetaClasseForm($user)
             <th><label for="user_classe">Votre classe</label></th>
             <td>
                 <select class="form-control" name="user_classe" id="user_classe">
-                    <option name="user_classe" value="classe1">classe1</option>
-                    <option name="user_classe" value="classe2">classe2</option>
-                    <option name="user_classe" value="classe3">classe3</option>
+                    <option name="user_classe" value="1er année">1er année</option>
+                    <option name="user_classe" value="seconde année">seconde année</option>
+                    <option name="user_classe" value="troisième année">troisième année</option>
                 </select>
                 <span class="description">Renseigner votre classe</span>
             </td>

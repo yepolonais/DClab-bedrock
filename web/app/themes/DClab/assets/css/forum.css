@@ -1,0 +1,63 @@
+main{
+  height: calc(100vh - 225px);
+}
+.dclab__breadcrumb{
+  height: 35px;
+}
+.dclab__articles{
+  height: calc(100% - 35px);
+}
+article{
+  flex: 1;
+  margin-bottom: 0.3rem;
+}
+.view-cascade{
+  height: 40%;
+}
+.card-img-top{
+  object-fit: cover;
+  height:100%;
+  border-bottom: 2px solid var(--BleuMarket);
+}
+.card-body{
+  height: 50%;
+  padding: 0.25rem;
+}
+.card-footer{
+  height: 10%;
+}
+.card-title{
+  font-size: 0.6rem;
+  font-weight: 600;
+  margin-bottom: 0.2rem;
+}
+.dclab__author{
+  font-size: 0.5rem;
+  margin-bottom: 0.2rem !important;
+}
+
+.dclab__ecole, .dclab__labs{
+  font-size: 0.35rem;
+}
+.card-text{
+  font-size: 0.45rem;
+}
+.card-footer{
+  padding: 0.1rem;
+}
+.card-footer p{
+  font-size: 0.5rem;
+}
+.waves-effect{
+  font-size: 0.7rem;
+}
+.svg-inline--fa {
+    vertical-align: sub;
+}
+
+.view-cascade{
+  display: none;
+}
+.card-footer{
+  display: none!important;
+}

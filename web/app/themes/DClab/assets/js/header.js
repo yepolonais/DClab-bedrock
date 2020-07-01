@@ -29,11 +29,19 @@ $(function(){
 
 });
 
+/**
+ * Valide les choix des école/labs dans le header et passe leurs valeurs dans la requête
+ */
 ;(function(){
-  let selectedChoices = document.getElementsByClassName('form-control');
-  for(i=0;i<selectedChoices.length;i++){
-    let changedselection
-    console.log(selectedChoices[i].options);
-    selectedChoices[i].addEventListener('change', console.log("coucou"));
+  let selectedSchool = document.getElementById('school');
+  let selectedLabs = document.getElementById('labs');
+  selectedSchool.addEventListener('change', sendURLSchoolLab);
+  selectedLabs.addEventListener('change',sendURLSchoolLab);
+  function sendURLSchoolLab(){
+    let formulaires = document.forms;
+    for(i=0;i<formulaires.length;i++){
+      if(document.forms[i].attributes.id === 'adminbarsearch'){return};
+        document.forms[i].submit();
+    }
   }
 })();

@@ -72,8 +72,7 @@
    => wp db create
 
 ** Importer la bdd présente dans la racine
-   => wp db import <nom de la bdd>
-   => wp db import agencia {pour notre projet}
+   => wp db import
 
 
 
