@@ -10,11 +10,11 @@
             <h1>Mon compte </h1>
             <br>
 
-            
 
 
 
-     
+
+
 <?php
     $current_user = wp_get_current_user();
 
@@ -32,7 +32,7 @@
     printf( __( 'User ID: %s', 'textdomain' ), esc_html( $current_user->ID ) );*/
 ?>
 
-            
+
 
     <img class="AvatarBody" id="Placeholder2DAvatarImage" alt="" src="http://avatar.xboxlive.com:80/avatar/<?php echo ($curauth->gamertag); /*le body avatar*/ ?>/avatar-body.png" />
     <form action="" method="POST" class="form-group">
@@ -74,7 +74,7 @@
             <option>DEV</option>
             <option>MARKETING</option>
             <option>DESIGN</option>
-            
+
             </select>
         </div>
         <div class="form-group">
@@ -106,12 +106,12 @@
         <!--<button class="btn btn-primary">Primary</button>  -->
 
 
-        
+
 
 
     </form>
 
-    <?php 
+    <?php
 
     /*
     echo "<br>";
@@ -129,17 +129,17 @@
 
 
 
-      update_user_meta($current_user->ID, "entreprise", $_POST['entreprise']);
-      update_user_meta($current_user->ID, "telephone", $_POST['telephone']);
-      update_user_meta($current_user->ID, "domicile", $_POST['domicile']);
-      
+update_user_meta($current_user->ID, "entreprise", $_POST['entreprise']);
+update_user_meta($current_user->ID, "telephone", $_POST['telephone']);
+update_user_meta($current_user->ID, "domicile", $_POST['domicile']);
+
 
 
 
 
 
         ?>
-        
+
 <?php
         /*var_dump($current_user->ID);*/
 
@@ -180,23 +180,23 @@
     $sexe = get_user_meta($current_user->ID)['sexe'][0];
     echo $sexe;
 
-    
+
 
 
 
 
 */
     ?>
-           
-
-
-            
 
 
 
-            	
+
+
+
+
+
 		</section>
-	
+
 	</div> <!--container-->
 </div> <!--wrapper-->
 

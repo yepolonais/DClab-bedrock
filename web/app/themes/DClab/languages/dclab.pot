@@ -1,7 +1,8 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: dclab\n"
-"POT-Creation-Date: 2020-06-24 10:59+0200\n"
+"POT-Creation-Date: 2020-07-01 13:37+0200\n"
 "PO-Revision-Date: 2020-06-24 10:59+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -16,7 +17,7 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 
 #: archive-emploi.php:35 archive-ressources.php:35 archive-videos.php:35
-#: front-page.php:43 front-page.php:85 front-page.php:127 home.php:35
+#: front-page.php:49 front-page.php:97 front-page.php:145 home.php:35
 #: index.php:35
 msgid "Lire"
 msgstr ""
@@ -157,6 +158,18 @@ msgstr ""
 msgid "Aucune vidéo n'a été trouvée dans la poubelle"
 msgstr ""
 
+#: front-page.php:12
+msgid "actualités"
+msgstr ""
+
+#: front-page.php:60
+msgid "forums"
+msgstr ""
+
+#: front-page.php:108
+msgid "évènements"
+msgstr ""
+
 #: functions.php:33
 msgid "Icone de "
 msgstr ""
@@ -165,11 +178,11 @@ msgstr ""
 msgid "Page d'accueil"
 msgstr ""
 
-#: header.php:73
+#: header.php:77
 msgid "Toutes les écoles"
 msgstr ""
 
-#: header.php:83
+#: header.php:87
 msgid "Tous les labs"
 msgstr ""
 
@@ -179,29 +192,4 @@ msgstr ""
 
 #: inc/customize.php:15
 msgid "Logo"
-msgstr ""
-
-#: template-parts/content-infosprofil.php:22
-#, php-format
-msgid "User email: %s"
-msgstr ""
-
-#: template-parts/content-infosprofil.php:23
-#, php-format
-msgid "User first name: %s"
-msgstr ""
-
-#: template-parts/content-infosprofil.php:24
-#, php-format
-msgid "User last name: %s"
-msgstr ""
-
-#: template-parts/content-infosprofil.php:25
-#, php-format
-msgid "User display name: %s"
-msgstr ""
-
-#: template-parts/content-infosprofil.php:31
-#, php-format
-msgid "User ID: %s"
 msgstr ""

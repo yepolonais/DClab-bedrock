@@ -44,9 +44,9 @@
 						<div class="header-account d-flex flex-column">
 						<a class="header-logo d-flex align-items-center justify-content-center w-100 h-100" href="http://localhost:8000/index.php/infosprofil/">
 							<div class="header-logo d-flex align-items-center justify-content-center w-100 h-100">
-							
+
 								<?= dclab_icon('user') ?>
-						
+
 							</div>
 						</a>
 							<div class="header-name d-flex align-items-center justify-content-center w-100 h-100">
@@ -69,11 +69,11 @@
 					</div>
 				</div>
 				<div class="col-4 h-100 w-100">
-					<form class="row h-100">
+					<form class="row h-100 <?php if(is_front_page()){echo "invisible";}   ?>">
 						<div class="col-6 dclab__school h-100 w-100">
 							<div id="navbarSupportedContent" class="h-100 w-100">
 								<div class="form-group h-100 w-100 d-flex align-items-center justify-content-center">
-									<select class="form-control h-75 w-100" name="school" id="school" <?php disabled(is_front_page())?>>
+									<select class="form-control h-75 w-100" name="school" id="school">
 										<option value=""><?= __('Toutes les écoles', 'dclab')   ?></option>
 										<?php dclab_choix_ecoles() ?>
 									</select>
@@ -83,7 +83,7 @@
 						<div class="col-6 dclab__labs h-100 w-100">
 							<div id="navbarSupportedContent" class="w-100 h-100">
 								<div class="form-group h-100 w-100 d-flex align-items-center justify-content-center">
-									<select class="form-control h-75 w-100" name="labs" id="labs" <?php disabled(is_front_page())?>>
+									<select class="form-control h-75 w-100" name="labs" id="labs">
 										<option value=""><?= __('Tous les labs', 'dclab')   ?></option>
 										<?php dclab_choix_labs() ?>
 									</select>

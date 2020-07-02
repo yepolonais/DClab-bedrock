@@ -9,7 +9,7 @@
 
         <div class="col-4 h-100 w-100">
           <div class="titre__accueil d-flex align-items-center justify-content-center text-capitalize">
-            <h2>Actualités</h2>
+            <h2><?= __('actualités', 'dclab') ?></h2>
           </div>
           <?php $args = [
             'post_type' => 'post',
@@ -57,7 +57,7 @@
 
         <div class="col-4 h-100 w-100">
           <div class="titre__accueil d-flex align-items-center justify-content-center text-capitalize">
-            <h2>forums</h2>
+            <h2><?= __('forums', 'dclab') ?></h2>
           </div>
           <?php $args = [
             'post_type' => 'topic',
@@ -105,7 +105,7 @@
 
         <div class="col-4 h-100 w-100">
           <div class="titre__accueil d-flex align-items-center justify-content-center text-capitalize">
-            <h2>évènements</h2>
+            <h2><?= __('évènements', 'dclab') ?></h2>
           </div>
           <?php $args = [
             'post_type' => 'tribe_events',

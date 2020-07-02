@@ -1,9 +1,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: dclab\n"
-"POT-Creation-Date: 2020-06-24 10:59+0200\n"
-"PO-Revision-Date: 2020-06-24 11:02+0200\n"
+"POT-Creation-Date: 2020-07-01 13:37+0200\n"
+"PO-Revision-Date: 2020-07-01 13:40+0200\n"
+"Last-Translator: \n"
 "Language-Team: \n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -11,57 +13,55 @@ msgstr ""
 "X-Poedit-Basepath: ..\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-KeywordsList: __;_x;_e;_n\n"
-"Last-Translator: \n"
-"Language: en_US\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: archive-emploi.php:35 archive-ressources.php:35 archive-videos.php:35
-#: front-page.php:43 front-page.php:85 front-page.php:127 home.php:35
+#: front-page.php:49 front-page.php:97 front-page.php:145 home.php:35
 #: index.php:35
 msgid "Lire"
-msgstr ""
+msgstr "Read"
 
 #: custom-posts/emploi.php:10 custom-posts/emploi.php:19
 msgid "Emplois"
-msgstr ""
+msgstr "Jobs"
 
 #: custom-posts/emploi.php:11 custom-posts/emploi.php:12
 #: custom-posts/emploi.php:13
 msgid "Emploi"
-msgstr ""
+msgstr "Job"
 
 #: custom-posts/emploi.php:14 custom-posts/ressources.php:14
 #: custom-posts/videos.php:14
 msgid "Ajouter"
-msgstr ""
+msgstr "Add"
 
 #: custom-posts/emploi.php:15
 msgid "Ajouter un emploi"
-msgstr ""
+msgstr "Add a job"
 
 #: custom-posts/emploi.php:16
 msgid "Nouvel emploi"
-msgstr ""
+msgstr "New Job"
 
 #: custom-posts/emploi.php:17
 msgid "Editer l'emploi"
-msgstr ""
+msgstr "Edit job"
 
 #: custom-posts/emploi.php:18
 msgid "Voir l'emploi"
-msgstr ""
+msgstr "See job"
 
 #: custom-posts/emploi.php:20
 msgid "Rechercher un emploi"
-msgstr ""
+msgstr "Search for a job"
 
 #: custom-posts/emploi.php:21
 msgid "Emplois parents :"
-msgstr ""
+msgstr "Parents jobs :"
 
 #: custom-posts/emploi.php:22
 msgid "Aucun emploi n'a été trouvé"
-msgstr ""
+msgstr "No jobs was found"
 
 #: custom-posts/emploi.php:23
 msgid "Aucun emploi n'a été trouvé dans la poubelle"
@@ -157,19 +157,31 @@ msgstr ""
 msgid "Aucune vidéo n'a été trouvée dans la poubelle"
 msgstr ""
 
+#: front-page.php:12
+msgid "actualités"
+msgstr "news"
+
+#: front-page.php:60
+msgid "forums"
+msgstr "forums"
+
+#: front-page.php:108
+msgid "évènements"
+msgstr "events"
+
 #: functions.php:33
 msgid "Icone de "
-msgstr ""
+msgstr "Icon of"
 
 #: header.php:26
 msgid "Page d'accueil"
-msgstr ""
+msgstr "Landing page"
 
-#: header.php:73
+#: header.php:77
 msgid "Toutes les écoles"
 msgstr "All schools"
 
-#: header.php:83
+#: header.php:87
 msgid "Tous les labs"
 msgstr "All labs"
 
@@ -179,29 +191,4 @@ msgstr "Website logo"
 
 #: inc/customize.php:15
 msgid "Logo"
-msgstr ""
-
-#: template-parts/content-infosprofil.php:22
-#, php-format
-msgid "User email: %s"
-msgstr ""
-
-#: template-parts/content-infosprofil.php:23
-#, php-format
-msgid "User first name: %s"
-msgstr ""
-
-#: template-parts/content-infosprofil.php:24
-#, php-format
-msgid "User last name: %s"
-msgstr ""
-
-#: template-parts/content-infosprofil.php:25
-#, php-format
-msgid "User display name: %s"
-msgstr ""
-
-#: template-parts/content-infosprofil.php:31
-#, php-format
-msgid "User ID: %s"
 msgstr ""
